@@ -1,0 +1,20 @@
+{
+  "1" : {
+    "tittle" : "Paseo por las canteras",
+    "route": "paseo-de-las-canteras.gpx",
+    "descripcion" :"",
+    "latitude": 28.128433,
+    "longitude": -15.451262,
+    "imagenePath":"assets/img/lascanteras.jpg"
+  },
+  "2" : {
+    "tittle" : "Ruta por tenteniguada",
+    "route": "tenteniguada-circular.gpx",
+    "descripcion" :"",
+    "latitude": 27.974556,
+    "longitude": -15.529618,
+    "imagenePath":"assets/img/tenteniguada.jpg"
+
+  }
+}
+  

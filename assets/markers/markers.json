@@ -1,0 +1,32 @@
+
+{
+  "1" : {
+    "tittle" : "Mercado de Vegueta",
+    "descripcion" : "Inaugurado en 1858, es considerado el primer mercado central que hubo en las Islas Canarias. Está abierto de lunes a jueves de 06.30 hasta las 14.00 horas y hasta las 15.00 los viernes, sábados y vísperas de festivo. Uno de los mejores lugares para probar las frutas, verduras, quesos, pescados, vinos, etc. de Gran Canaria.",
+    "latitude": 28.102562,
+    "longitude": -15.413417,
+    "imagenePath": "assets/img/mercadoVegueta.jpg"
+  },
+  "2" : {
+    "tittle" : "Casa de Colón",
+    "descripcion" : "En las Casas de los Gobernadores, Colón pidió ayuda para reparar La Pinta. Aunque ese lugar lleve hoy su nombre, nunca fue su casa, pero sí un buen museo para seguir el rumbo de los viajes colombinos, entre réplicas de carabelas, uno de los astrolabios que utilizó y antiguas cartas náuticas.",
+    "latitude": 28.1017767,
+    "longitude": -15.4144596,
+    "imagenePath": "assets/img/casaColon.jpg"
+  },
+  "3" : {
+    "tittle" : "Catedral de Santa Ana",
+    "descripcion" : "Desde 1497 hasta su finalización en el siglo XIX, la única catedral de Canarias fue la de Santa Ana. Su estilo neoclásico y el basalto azulado de su fachada esconden un bellísimo bosque de palmeras en las bóvedas de crucería. Hay muchas obras de arte en sus once capillas, como las tallas del escultor canario José Luján Pérez. La más venerada es la Virgen de la Antigua, pieza flamenca idéntica a la de la Catedral de Sevilla.",
+    "latitude": 28.1010301,
+    "longitude": -15.4155103,
+    "imagenePath": "assets/img/catedralSantaAna.jpg"
+  },
+  "4" : {
+    "tittle" : "Plaza de Santa Ana",
+    "descripcion" : "Atrapa con un legado de bellos edificios, como el Palacio del Obispo, las neoclásicas Casas Consistoriales y la Casa del Regente. Aunque lo más fotografiado son los ocho perros de hierro fundido frente a la fachada catedralicia. No se sabe si fueron donación de Thomas Miller, pionero británico en la isla o de un barco que, averiado en ruta a otro continente, pagó la reparación con los canes de factura británica.",
+    "latitude": 28.1005799,
+    "longitude": -15.416353,
+    "imagenePath": "assets/img/plazaSantaAna.jpg"
+  }
+}
+  
